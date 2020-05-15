@@ -64,4 +64,12 @@ Temos projetos em andamento relacionados a interpretação de textos curtos para
 
 ## Finanças quantitativas (Quant)
 
+### O que é:
+Aplicações de programação e inteligência artificial no mercado financeiro, estudando finanças, aplicações e métodos quantitativos. Tudo isso através de cursos, implementações de papers, competições, e visitas a gestoras quantitativas e outras empresas do setor.
+### O que já fizemos:
+ 1. Repositório no GitHub com script utilitário para obtenção de dados do mercado financeiro:
+  * https://github.com/GrupoTuring/Quant-Utils
+ 2. Lib em Python com estratégias de investimento do Turing Quant:
+  * https://github.com/GrupoTuring/Quant-Models
+  
 ## Data Science
