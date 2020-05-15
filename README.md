@@ -41,6 +41,26 @@ Em poucas palavras, Reinforecemnt Learning é uma modalidade de Machine Learning
 
 
 ## Processamento de Linguagem Natural (NLP)
+### O que é:
+Processamento de Linguagem Natural (do inglês Natural Language Processing - NLP) é uma área da Inteligência Artificial que estuda a intepretação e manipulação de linguagens humanas - naturais por computadores. Entre suas aplicações estão:
+ * Interpretação de texto;
+ * Criação de conteúdo, e até
+ * Tradução de texto
+
+### O que já fizemos:
+ 1. Uso de Machine Learning para classificação dos heterônimos de Fernando Pessoa
+  * https://medium.com/turing-talks/como-machine-learning-consegue-diferenciar-heter%C3%B4nimos-de-fernando-pessoa-156d0d52a478
+  * https://github.com/GrupoTuring/fernando-pessoa
+  
+ 2. Análise de sentimento em texto com Deep Learning
+  * https://medium.com/turing-talks/an%C3%A1lise-de-sentimento-usando-lstm-no-pytorch-d90f001eb9d7
+  * https://github.com/piEsposito/nlp-sentiment-analysis-turing-talks
+ 
+ 3. Post no Medium de introdução à NLP
+  * https://medium.com/turing-talks/introdu%C3%A7%C3%A3o-ao-processamento-de-linguagem-natural-com-baco-exu-do-blues-17cbb7404258
+ 
+### O que estamos fazendo: 
+Temos projetos em andamento relacionados a interpretação de textos curtos para extração de insights.
 
 ## Finanças quantitativas (Quant)
 
