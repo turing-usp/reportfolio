@@ -13,8 +13,6 @@ O Grupo Turing, grupo de IA da USP, tem como objetivo estudar, aplicar e difundi
   
 ## Quem somos
 
-## Projetos por área de estudo
-
 ## Papers with code
 ### O que é:
 A motivação deste reportfólio foi criar um lugar onde houvesse implementações de referência de IA feito por falantes de língua portuguesa para falantes de língua portuguesa - e para isso escolheríamos papers relevantes de Deep Learning e Machine Learning e os implementaríamos num repositório do GitHub.
@@ -92,3 +90,7 @@ Aplicações de programação e inteligência artificial no mercado financeiro, 
   * https://github.com/GrupoTuring/Quant-Models
   
 ## Data Science
+### O que é:
+A área de Data Science, nova no grupo, tem como objetivo aplicar o conhecimento desenvolvido dentro do grupo para resolver problemas reais dentro de organizações. Alinhando-se com a filosofia do grupo, a área procura sempre se aproximar de ONGs, com o intuito de produzir resultados que tenham um impacto positivo na sociedade.
+### O que fazemos:
+No momento, temos trabalhos em andamento com entidades públicas e privadas que serão publicados e mostrados aqui quanto estiverem prontos.
