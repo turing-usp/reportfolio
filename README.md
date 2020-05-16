@@ -16,7 +16,28 @@ O Grupo Turing, grupo de IA da USP, tem como objetivo estudar, aplicar e difundi
 ## Projetos por área de estudo
 
 ## Papers with code
+### O que é:
+A motivação deste reportfólio foi criar um lugar onde houvesse implementações de referência de IA feito por falantes de língua portuguesa para falantes de língua portuguesa - e para isso escolheríamos papers relevantes de Deep Learning e Machine Learning e os implementaríamos num repositório do GitHub.
 
+Nesta seção do reportfólio, membros do grupo escolhem artigos ou ideias interessantes em Deep Learning e as implementam de forma simples e explicada, eventualmente extentendo a ideia. No final, nem tudo ficou em portugês... Acontece...
+### O que implementamos:
+ 1. [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424) - se tornou uma lib em PyTorch de Deep Learning com inferência variacional, BLiTZ.
+  * https://towardsdatascience.com/bayesian-lstm-on-pytorch-with-blitz-a-pytorch-bayesian-deep-learning-library-5e1fec432ad3
+  * https://github.com/piEsposito/blitz-bayesian-deep-learning
+ 2. [Curvilinear Component Analysis implementation for Python](https://ieeexplore.ieee.org/document/554199) - um método para redução de dimensionalidade não linear.
+  * https://github.com/FelipeAugustoMachado/Curvilinear-Component-Analysis-Python
+ 3. Auto-Encoder no PyTorch
+  * https://medium.com/turing-talks/redes-neurais-autoencoders-com-pytorch-fbce7338e5de
+  * https://github.com/paulosestini/AutoEncoder
+ 4. [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) - O trabalho que inaugurou a área de Deep Reinforcement Learning, tão hypada (com razão) nos dias de hoje.
+  * https://github.com/lucms/DQN
+ 5.  [Policy Gradients for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)- Implementação de REINFORCE - Policy Gradients no VizDoom:
+  * https://medium.com/@piero.skywalker/reinforcement-learning-para-al%C3%A9m-do-cartpole-policy-gradients-no-vizdoom-720d81ee3cb5
+  * https://github.com/piEsposito/policy-gradients-doom
+ 6. [Bayesian Recurrent Neural Networks](https://arxiv.org/pdf/1704.02798.pdf) - Redes Neurais Recorrentes como parte da lib de Deep Learning Bayesiano
+  * https://towardsdatascience.com/bayesian-lstm-on-pytorch-with-blitz-a-pytorch-bayesian-deep-learning-library-5e1fec432ad3
+  * https://github.com/piEsposito/blitz-bayesian-deep-learning/blob/master/blitz/modules/lstm_bayesian_layer.py
+ 
 ## Visão Computacional
 
 ## Aprendizado por reforço (Reinforcement Learning)
@@ -32,8 +53,6 @@ Em poucas palavras, Reinforecemnt Learning é uma modalidade de Machine Learning
   * https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-3-processo-de-decis%C3%A3o-de-markov-parte-2-15fe4e2a4950
   * https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-4-gym-d18ac1280628
   * https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-5-programa%C3%A7%C3%A3o-din%C3%A2mica-8db4db386b67
- 2. Implementação de Policy Gradients no VizDoom:
-  * https://github.com/piEsposito/policy-gradients-doom
 ### O que estamos fazendo:
  * Estudo dos métodos e técnicas de RL, como DQN, PG, AC, ... e como modelar os problemas, implementando esses métodos em ambientes do gym e outros jogos. 
 
