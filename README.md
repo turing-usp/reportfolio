@@ -12,8 +12,18 @@ O Grupo Turing, grupo de IA da USP, tem como objetivo estudar, aplicar e difundi
   * [Data Science](#Data-Science)
   
 ## Quem somos
+Somos o grupo de extensão acadêmica da Universidade de São Paulo que estuda, dissemina e aplica conhecimentos de Inteligência Artificial.
 
-## Papers with code
+### História
+Surgimos em 2015 como um grupo de estudos originalmente idealizado por duas mulheres, fundado por um grupo de três politécnicos e batizado em homenagem a Alan Turing (1912-1954), matemático e lógico inglês considerado o pai da computação.
+
+### Missão
+Nossa missão é se tornar uma referência nacional em produção de conteúdo relacionado à Inteligência Artificial. Abrangendo material de estudo em português, a realização de eventos como workshops e até a aplicação em projetos.
+
+### Cultura
+Prezamos pela diversidade e o respeito ao próximo. Valorizamos a proatividade de nossos membros nos quesitos de entrega, liderança e a habilidade de trabalhar em equipe tomando atitudes, mas mantendo-se aberto a sugestões.
+
+## Implementações limpas e explicadas de papers relevantes de IA:
 ### O que é:
 A motivação deste reportfólio foi criar um lugar onde houvesse implementações de referência de IA feito por falantes de língua portuguesa para falantes de língua portuguesa - e para isso escolheríamos papers relevantes de Deep Learning e Machine Learning e os implementaríamos num repositório do GitHub.
 
