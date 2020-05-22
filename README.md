@@ -45,6 +45,10 @@ Nesta seção do reportfólio, membros do grupo escolhem artigos ou ideias inter
  6. [Bayesian Recurrent Neural Networks](https://arxiv.org/pdf/1704.02798.pdf) - Redes Neurais Recorrentes como parte da lib de Deep Learning Bayesiano
   * https://towardsdatascience.com/bayesian-lstm-on-pytorch-with-blitz-a-pytorch-bayesian-deep-learning-library-5e1fec432ad3
   * https://github.com/piEsposito/blitz-bayesian-deep-learning/blob/master/blitz/modules/lstm_bayesian_layer.py
+ 7. [Radial Bayesian Neural Networks: Beyond Discrete Support In Large-Scale Bayesian Deep Learning](https://arxiv.org/abs/1907.00865) - Redes Neurais Bayesianas Radiais como técnica para acelerar e melhorar o ajuste aos dados.
+  * https://github.com/piEsposito/blitz-bayesian-deep-learning/blob/master/blitz/utils/layer_wrappers.py#L74-108
+ 8. [Flipout: Efficient Pseudo-Independent Weight Perturbations on Mini-Batches](https://arxiv.org/abs/1803.04386)
+  * https://github.com/piEsposito/blitz-bayesian-deep-learning/blob/master/blitz/utils/layer_wrappers.py#L20-72
  
 ## Visão Computacional
 
