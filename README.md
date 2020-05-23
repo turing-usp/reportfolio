@@ -49,6 +49,11 @@ Nesta seção do reportfólio, membros do grupo escolhem artigos ou ideias inter
   * https://github.com/piEsposito/blitz-bayesian-deep-learning/blob/master/blitz/utils/layer_wrappers.py#L74-108
  8. [Flipout: Efficient Pseudo-Independent Weight Perturbations on Mini-Batches](https://arxiv.org/abs/1803.04386)
   * https://github.com/piEsposito/blitz-bayesian-deep-learning/blob/master/blitz/utils/layer_wrappers.py#L20-72
+ 9. [LSTM peephole connections](http://jmlr.org/papers/volume3/gers02a/gers02a.pdf)
+  * Também tomamos como referência: [Long Short-Term Memory Recurrent Neural Network Architectures for Large Scale Acoustic Modeling](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43905.pdf)
+  * https://github.com/piEsposito/blitz-bayesian-deep-learning/blob/master/blitz/modules/lstm_bayesian_layer.py - como uma opção para a operação feedforward
+ 10. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555)
+  * https://github.com/piEsposito/blitz-bayesian-deep-learning/blob/master/blitz/modules/gru_bayesian_layer.py
  
 ## Visão Computacional
 
