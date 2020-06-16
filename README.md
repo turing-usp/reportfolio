@@ -55,6 +55,29 @@ Nesta seção do reportfólio, membros do grupo escolhem artigos ou ideias inter
  
 ## Visão Computacional
 
+### O que é:
+
+Como humanos somos capazes de enteder conteudos de imagens facilmente, mas e o computador? Como ele enxerga uma imagem? Como ele consegue discernir o seu conteudo e tirar informações dela?
+Visão Computacional é a aréa de estudos focada em estudar justamente isso e como aproveitar todo o potencial de um computador tem de analisar imagens em um tempo infinitamente menor que pessoas.
+Usamos todo esse potencial para criar aplicações que melhorem processos antes não automatizados.
+Atualmente, trabalhamos em um sistema de reconhecimento e codificação de rostos para uma empresa parceira.
+
+### O que já fizemos:
+
+- Projeto que visa converter sinais da Língua Brasileira de Sinais em Português: *https://bitbucket.org/grupoturing/libras_codes/src/master/
+- Jo-Ken-Po: contar o número de dedos apresenta em frente da webcam: 
+*https://bitbucket.org/grupoturing/contador-de-dedos/src/master/
+- Workshop de Classificação de Imagens.
+- Posts do Medium sobre CV
+- Classificação com redes neurais: 
+*https://medium.com/turing-talks/turing-talks-22-modelos-de-predi%C3%A7%C3%A3o-redes-neurais-parte-3-9c5d5d0c60e7
+- Redes neurais convolucionais: 
+*https://medium.com/turing-talks/turing-talks-23-modelos-de-predi%C3%A7%C3%A3o-redes-neurais-convolucionais-d364654a34de
+
+O que estamos fazendo:
+- Estudos de técnicas de reconhecimento de imagens, como as grandes empresas implementam algoritmos de classificação etentamos nos atualizar nas técnicas atuais de CV.
+- Projeto de reconhecimento facial com codificação não reversível do rosto humano, visando a recente LGPD.
+
 ## Aprendizado por reforço (Reinforcement Learning)
 
 ### O que é:
