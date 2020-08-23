@@ -6,7 +6,7 @@ O Grupo Turing, grupo de IA da USP, tem como objetivo estudar, aplicar e difundi
   * [Projetos por área de estudo](#Projetos-por-área-de-estudo)
   * [Papers with code](#Papers-with-code)
   * [Visão Computacional](#Visão-Computacional)
-  * [Aprendizado por reforço (Reinforcement Learning)](#Aprendizado-por-reforço-(Reinforcement-Learning))
+  * [Aprendizado por reforço (Reinforcement Learning)](#aprendizado-por-reforço-reinforcement-learning)
   * [Processamento-de-Linguagem-Natural-(NLP)](#)
   * [Finanças quantitativas (Quant)](#Finanças-quantitativas-(Quant))
   * [Data Science](#Data-Science)
@@ -85,12 +85,21 @@ Em poucas palavras, Reinforecemnt Learning é uma modalidade de Machine Learning
 
 ### O que já fizemos:
 
- 1. Seríe de posts introdutórios sobre o tema em nosso Medium:
-  * https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-1-introdu%C3%A7%C3%A3o-7382ebb641ab
-  * https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-2-processo-de-decis%C3%A3o-de-markov-mdp-parte-1-84e69e05f007
-  * https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-3-processo-de-decis%C3%A3o-de-markov-parte-2-15fe4e2a4950
-  * https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-4-gym-d18ac1280628
-  * https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-5-programa%C3%A7%C3%A3o-din%C3%A2mica-8db4db386b67
+ 1. Workshop Introdutório de Aprendizado por Reforço:
+  * [Material](https://github.com/GrupoTuring/Workshop-de-Aprendizado-por-Reforco)
+  * [Vídeo Completo](https://youtu.be/FxcWqI-l29E)
+ 2. Rede neural que aprende a jogar Super Mario Bros:
+  * [Código](https://github.com/Berbardo/MarioRL)
+  * [Post](https://medium.com/turing-talks/usando-deep-learning-para-jogar-super-mario-bros-8d58eee6e9c2)
+ 3. Agente que aprende a jogar Pong com Q-Learning:
+  * [Código](https://github.com/GrupoTuring/Turing-Talks/tree/master/Aprendizado%20por%20Refor%C3%A7o/QLearningTabular)
+  * [Post](https://medium.com/turing-talks/criando-uma-ia-que-aprende-a-jogar-pong-f379b0170017)
+ 4. Seríe de posts introdutórios sobre o tema em nosso Medium:
+  * [Introdução](https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-1-introdu%C3%A7%C3%A3o-7382ebb641ab)
+  * [Processo de Decisão de Markov: Parte 1](https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-2-processo-de-decis%C3%A3o-de-markov-mdp-parte-1-84e69e05f007)
+  * [Processo de Decisão de Markov: Parte 2](https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-3-processo-de-decis%C3%A3o-de-markov-parte-2-15fe4e2a4950)
+  * [Gym](https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-4-gym-d18ac1280628)
+  * [Programação Dinâmica](https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-5-programa%C3%A7%C3%A3o-din%C3%A2mica-8db4db386b67)
 ### O que estamos fazendo:
  * Estudo dos métodos e técnicas de RL, como DQN, PG, AC, ... e como modelar os problemas, implementando esses métodos em ambientes do gym e outros jogos. 
 
